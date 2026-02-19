@@ -1,0 +1,10 @@
+{
+  "name": "greet-app",
+  "version": "1.0.0",
+  "description": "Modern greeting web application with celebration animations",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "test": "node tests/run-tests.js"
+  },
+  "private": true
+}

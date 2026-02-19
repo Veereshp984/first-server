@@ -1,0 +1,10 @@
+text,label
+"I love this product",positive
+"Terrible experience",negative
+"It was okay, not great",neutral
+"Absolutely fantastic quality",positive
+"Very bad experience",negative
+"Decent for the price",neutral
+"Exceeded my expectations",positive
+"Terrible, would not recommend",negative
+"Not worth the money",negative
